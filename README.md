@@ -6,7 +6,7 @@
 - 🔍 I’m currently looking for a job
 - 👩‍🎓 Biochemical Engineering, BSc
 
-I am Marta Aleksic 😃, currently developing my skills in Data Engineering and Visualisation and currently looking for a job! 
+I am Marta Aleksic 😃, currently developing my skills in Data Engineering and Visualisation and looking for a job! 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=martaaleksic)
 
